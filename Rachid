@@ -1,0 +1,23 @@
+<!DOCTYPE html>    <!--document type declaration, markup language-->
+<html>
+<head>   <!-- marks info about the document (starting Tag) (<element>content</element>)-->
+	<meta charset=”utf-8”>
+	<meta name=”kewords” content=”Thai, restaurant, charlotte, food” />
+	<title>Rachid Elaafer</title>  <!--body content-->
+</head>   <!-- (ending Tag) -->
+<body>    <!-- (Strarting Tag)
+	<!-- body content-->
+	<nav>
+	<a href="About Us.html" "</a>
+	<a href="Contact Us.html" alt="Contact Us"</a>
+	</nav>
+	
+	
+	<p>Welcome to Rachid's Web Page</p>
+	
+	<header>
+	<img src="RachidElaafer.jpg" alt="Rachid Elaafer"/>
+	</header>
+	<br/>    <!-- Line Break-->
+</body>      <!-- (Ending Tag) -->
+</html>

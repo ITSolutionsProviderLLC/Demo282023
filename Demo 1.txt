@@ -1,0 +1,11 @@
+<!DOCTYPE html>    <!--document type declaration, markup language-->
+<html>
+<head>   <!-- marks info about the document (starting Tag) (<element>content</element>)-->
+	<title>About Curbside Thai</title>  <!--body content-->
+</head>   <!-- (ending Tag) -->
+<body>    <!-- (Strarting Tag)
+	<!-- body content-->
+	<p>Welcome to Curbside Thai.</p>
+	<br/>    <!-- Line Break-->
+</body>      <!-- (Ending Tag) -->
+</html>
